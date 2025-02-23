@@ -24,19 +24,18 @@
    &kp LCTRL &kp A &kp S &kp D &kp F &kp G   &kp H &kp J  &kp K     &kp L   &kp SEMI &kp SQT
    &kp LSHFT &kp Z &kp X &kp C &kp V &kp B   &kp N &kp M  &kp COMMA &kp DOT &kp FSLH &kp ESC
                   &kp LGUI &mo 1 &kp SPACE   &kp RET &mo 2 &kp RALT
-                        >;
                // left home row mods 
                &mt LCTL A
                &mt LALT S
                &mt LGUI D
                &mt LSHIFT F
-               
+              
                // right home row mods 
                &mt RCTL J
                &mt RALT K
                &mt RGUI L
                &mt RSHIFT SEMI
-               
+                        >;
                 };
                 lower_layer {
 // -----------------------------------------------------------------------------------------
