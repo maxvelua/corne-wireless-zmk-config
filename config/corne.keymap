@@ -11,7 +11,7 @@
 / {
         keymap {
                 compatible = "zmk,keymap";
-
+                tapping-term-ms = <200>;
                 default_layer {
 // -----------------------------------------------------------------------------------------
 // |  TAB |  Q  |  W  |  E  |  R  |  T  |   |  Y  |  U   |  I  |  O  |  P  | BKSP |
